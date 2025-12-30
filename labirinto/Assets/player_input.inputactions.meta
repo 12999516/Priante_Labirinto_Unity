@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0d3b4cf513d7ba947962005bdd770fd5
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8404be70184654265930450def6a9037, type: 3}
+  generateWrapperCode: 1
+  wrapperCodePath: player_movement.cs
+  wrapperClassName: player_movement
+  wrapperCodeNamespace: sistema_input
